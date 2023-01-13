@@ -1,0 +1,9 @@
+{
+  "singleQuote": false,
+  "parser": "babel-flow",
+  "parserOptions": {
+    "ecmaVersion": 11,
+    "sourceType": "module",
+    "allowImportExportEverywhere": true
+  }
+}
