@@ -8,7 +8,7 @@ process.on('uncoughtException', (err) => {
 });
 
 // mongoose is a library that allows us to connect to mongodb
-dotenv.config({ path: './config.env' });
+dotenv.config({ path: './.env' });
 
 const app = require('./app');
 
